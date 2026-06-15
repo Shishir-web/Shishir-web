@@ -64,10 +64,10 @@ Click on a category to expand and explore my core architectural implementations:
 
 ## 📊 GitHub Metrics
 
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=Shishir-web&show_icons=true&theme=visual_studio_dark&include_all_commits=true&count_private=true" alt="Shishir's GitHub Stats" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shishir-web&layout=compact&theme=visual_studio_dark&langs_count=6" alt="Top Languages" height="150" />
-</p>
+![Shishir's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Shishir-web&show_icons=true&theme=visual_studio_dark&include_all_commits=true&count_private=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Shishir-web&layout=compact&theme=visual_studio_dark&langs_count=6)
+
 
 ---
 
