@@ -64,9 +64,10 @@ Click on a category to expand and explore my core architectural implementations:
 
 ## 📊 GitHub Metrics
 
-![Shishir's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Shishir-web&show_icons=true&theme=visual_studio_dark&include_all_commits=true&count_private=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Shishir-web&layout=compact&theme=visual_studio_dark&langs_count=6)
+<p align="left">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Shishir-web&theme=visual_studio_dark" alt="Shishir's Streak Stats" height="150" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Shishir-web&theme=visual_studio_dark" alt="Top Languages" height="150" />
+</p>
 
 
 ---
