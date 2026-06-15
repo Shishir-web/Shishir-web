@@ -64,10 +64,9 @@ Click on a category to expand and explore my core architectural implementations:
 
 ## 📊 GitHub Metrics
 
-<p align="left">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Shishir-web&theme=visual_studio_dark&v=1.0.1" alt="Shishir's Streak Stats" height="150" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Shishir-web&theme=visual_studio_dark&v=1.0.1" alt="Top Languages" height="150" />
-</p>
+[![GitHub forks](https://img.shields.io/github/forks/Shishir-web/SciRAG-Explorer?style=for-the-badge&label=SciRAG%20Forks&color=9cf)](https://github.com/Shishir-web/SciRAG-Explorer)
+[![GitHub stars](https://img.shields.io/github/stars/Shishir-web/SciRAG-Explorer?style=for-the-badge&label=SciRAG%20Stars&color=yellow)](https://github.com/Shishir-web/SciRAG-Explorer)
+[![GitHub repo size](https://img.shields.io/github/repo-size/Shishir-web/SciRAG-Explorer?style=for-the-badge&label=Repo%20Size&color=blueviolet)](https://github.com/Shishir-web/SciRAG-Explorer)
 
 
 ---
