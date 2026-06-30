@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1e2327,100:2563eb&height=200&section=header&text=Shishir%20Kant%20Upadhyay&fontSize=42&fontColor=ffffff&animation=fadeIn&desc=Computer%20Vision%20%26%20AV%20Perception%20Engineer&descSize=18&descAlignY=58" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1e2327,100:2563eb&height=200&section=header&text=Shishir%20Kant%20Upadhyay&fontSize=42&fontColor=ffffff&animation=fadeIn&desc=Computer%20Vision%20and%20AV%20Perception%20Engineer&descSize=18&descAlignY=58" width="100%"/>
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=800&color=2563EB&center=true&vCenter=true&width=600&lines=Building+CV+models+for+autonomous+vehicles;Paper-to-production+deep+learning;YOLO-ViT+%7C+ONNX+%7C+INT8+Quantization+%7C+BDD100K;From+scratch+NumPy+CNNs+to+CI%2FCD+pipelines" alt="Typing SVG" />
 
@@ -86,7 +86,7 @@ I'm a Computer Vision / AI Engineer focused on autonomous-vehicle perception and
 
 ## 🤝 Let's Connect!
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shishir-kant-upadhyay-861695296/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](#)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:shishirkantupadhyay@gmail.com)
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2563eb,100:1e2327&height=100&section=footer" width="100%"/>
