@@ -86,7 +86,7 @@ I'm a Computer Vision / AI Engineer focused on autonomous-vehicle perception and
 
 ## 🤝 Let's Connect!
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](#https://www.linkedin.com/in/shishir-kant-upadhyay-861695296/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shishir-kant-upadhyay-861695296/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:shishirkantupadhyay@gmail.com)
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2563eb,100:1e2327&height=100&section=footer" width="100%"/>
