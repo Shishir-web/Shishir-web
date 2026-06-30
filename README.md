@@ -1,11 +1,8 @@
 <div align="center">
 
-# Shishir Kant Upadhyay
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1e2327,100:2563eb&height=200&section=header&text=Shishir%20Kant%20Upadhyay&fontSize=42&fontColor=ffffff&animation=fadeIn&desc=Computer%20Vision%20%26%20AV%20Perception%20Engineer&descSize=18&descAlignY=58" width="100%"/>
 
-### Computer Vision / AV Perception Engineer
-
-![Profile Views](https://komarev.com/ghpvc/?username=Shishir-web&style=flat-square&color=2563eb)
-![Followers](https://img.shields.io/github/followers/Shishir-web?style=flat-square&color=2563eb&label=Followers)
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=800&color=2563EB&center=true&vCenter=true&width=600&lines=Building+CV+models+for+autonomous+vehicles;Paper-to-production+deep+learning;YOLO-ViT+%7C+ONNX+%7C+INT8+Quantization+%7C+BDD100K;From+scratch+NumPy+CNNs+to+CI%2FCD+pipelines" alt="Typing SVG" />
 
 </div>
 
@@ -72,12 +69,14 @@ I'm a Computer Vision / AI Engineer focused on autonomous-vehicle perception and
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Metrics
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Shishir-web&show_icons=true&theme=tokyonight&hide_border=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Shishir-web&layout=compact&theme=tokyonight&hide_border=true)
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Shishir-web&theme=tokyonight&hide_border=true" width="48%"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shishir-web&layout=compact&theme=tokyonight&hide_border=true" width="48%"/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Shishir-web&theme=tokyo-night&hide_border=true" width="100%"/>
 
 </div>
 
@@ -88,6 +87,8 @@ I'm a Computer Vision / AI Engineer focused on autonomous-vehicle perception and
 ## 🤝 Let's Connect!
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](#)
-[![Gmail](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:shishirkantupadhyay@gmail.com)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:shishirkantupadhyay@gmail.com)
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2563eb,100:1e2327&height=100&section=footer" width="100%"/>
 
 </div>
