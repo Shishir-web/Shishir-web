@@ -1,77 +1,49 @@
-# Hi there, I'm Shishir Kant Upadhyay 👋 
+# Hi there, I'm Shishir Kant Upadhyay 👋
 
-<p align="left">
-  <img src="https://img.shields.io/badge/Focus-Deep%20Learning%20%26%20RAG-blueviolet?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Stack-PyTorch%20%7C%20Python%20%7C%20React-blue?style=for-the-badge" />
-</p>
-
-I am an AI Engineer focused on paper-to-code implementations, deep learning architectures, and building production-ready AI applications. I specialize in bridging the gap between core ML research and full-stack software deployment.
+I'm a Computer Vision / AI Engineer focused on autonomous-vehicle perception and paper-to-production deep learning. I build systems end-to-end — from reproducing core architectures from scratch to deploying optimized, edge-ready models.
 
 ---
 
 ## 🛠️ Tech Stack & Tooling
 
-<table border="0">
-  <tr>
-    <td>**AI / Machine Learning**</td>
-    <td>`Python` `PyTorch` `NumPy` `SciPy` `Torchvision`</td>
-  </tr>
-  <tr>
-    <td>**NLP & RAG**</td>
-    <td>`LangChain` `Cohere Rerank` `BGE-M3 Embeddings` `Hybrid Search`</td>
-  </tr>
-  <tr>
-    <td>**Full Stack & Deployment**</td>
-    <td>`Flask` `React.js` `REST APIs` `Git` `Docker`</td>
-  </tr>
-</table>
+| **Computer Vision / AV**     | `PyTorch` `OpenCV` `YOLO` `ViT` `ONNX` `INT8 Quantization` `BDD100K` |
+| ----------------------------- | --------------------------------------------------------------- |
+| **AI / Machine Learning**     | `Python` `NumPy` `SciPy` `Torchvision`                           |
+| **NLP & RAG**                 | `LangChain` `LangGraph` `pgvector` `BGE-M3` `Cohere Rerank`      |
+| **Full Stack & Deployment**   | `Flask` `React.js` `REST APIs` `Git` `Docker` `GitHub Actions (CI)` |
 
 ---
 
-## 🚀 Interactive Project Showcases
+## 🚀 Project Showcases
 
-Click on a category to expand and explore my core architectural implementations:
+### 👁️ Computer Vision & Autonomous Driving
 
-<details>
-<summary><b>🧠 Deep Learning & Paper Reproductions</b></summary>
-<br>
+- **[YOLO-ViT AV Detector](#)** — Hybrid YOLO + Vision Transformer object detector trained on BDD100K for autonomous-driving perception (vehicles, pedestrians, signals).
+- **[Edge CV Pipeline](#)** — INT8-quantized, ONNX-exported inference pipeline optimized for edge/embedded deployment.
+- **[Vision Eval Framework](#)** — Standardized evaluation harness for benchmarking CV models across detection/classification tasks.
+- **[CLIP-Style Image-Text Search](#)** — Contrastive image-text embedding model enabling natural-language image search.
+- **[NumPy CNN Framework](#)** — Convolutional neural network built from scratch using only NumPy, no autodiff libraries, to demonstrate first-principles understanding of backprop and conv layers.
 
-*   **[ResNet-18 Reproduction](https://github.com/Shishir-web/ResNet-reproduction)** 
-    *   *Core:* End-to-end reproduction of He et al. (2015). Proves skip connections solve the degradation problem on Tiny-ImageNet.
-    *   *Stack:* PyTorch, Flask API, React UI.
-*   **[LeNet-5 From Scratch](https://github.com/Shishir-web/Lenet5-paper)**
-    *   *Core:* Implementing the pioneer CNN for vision from scratch on MNIST without pre-trained weights.
-</details>
+### 🧠 Deep Learning & Paper Reproductions
 
-<details>
-<summary><b>👁️ Computer Vision & Segmentation</b></summary>
-<br>
+- **[ResNet-18 Reproduction](https://github.com/Shishir-web/ResNet-reproduction)** — End-to-end reproduction of He et al. (2015), proving skip connections solve the degradation problem on Tiny-ImageNet. PyTorch, Flask API, React UI.
+- **[LeNet-5 From Scratch](https://github.com/Shishir-web/Lenet5-paper)** — The pioneering CNN for vision, implemented from scratch on MNIST without pre-trained weights.
+- **[U-Net Production Pipeline](https://github.com/Shishir-web/U-Net-Production-)** — Pixel-level satellite land cover segmentation (DeepGlobe dataset) based on Ronneberger et al. (2015). PyTorch, Flask.
 
-*   **[U-Net Production Pipeline](https://github.com/Shishir-web/U-Net-Production-)**
-    *   *Core:* Pixel-level satellite land cover segmentation using the DeepGlobe dataset based on Ronneberger et al. (2015).
-    *   *Stack:* PyTorch, Flask.
-</details>
+### 🔍 Advanced RAG Systems
 
-<details>
-<summary><b>🔍 Advanced RAG Systems</b></summary>
-<br>
-
-*   **[SciRAG-Explorer](https://github.com/Shishir-web/SciRAG-Explorer)**
-    *   *Core:* Multi-agent RAG system for scientific literature (arXiv & PubMed). Features section-based chunking, BGE-M3 hybrid dense+sparse search, and Cohere reranking.
-</details>
+- **[SciRAG-Explorer](https://github.com/Shishir-web/SciRAG-Explorer)** — Multi-agent RAG system for scientific literature (arXiv & PubMed): section-based chunking, BGE-M3 hybrid dense+sparse search, Cohere reranking, full CI pipeline with 41 passing tests.
 
 ---
 
 ## 📊 GitHub Metrics
 
-<p align="left">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Shishir-web&theme=visual_studio_dark&v=1.0.2" alt="Shishir's Streak Stats" height="150" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Shishir-web&theme=visual_studio_dark&v=1.0.1" alt="Top Languages" height="150" />
-</p>
+![Shishir's Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=Shishir-web&theme=visual_studio_dark&v=1.0.2)
+![Top Languages](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Shishir-web&theme=visual_studio_dark&v=1.0.1)
 
 ---
 
 ## 🤝 Let's Connect!
 
-*   **LinkedIn:** [Shishir Kant Upadhyay]([https://linkedin.com/in/your-profile](https://www.linkedin.com/in/shishir-kant-upadhyay-861695296/))
-*   **Email:** shishirkantupadhyay@gmail.com
+- **LinkedIn:** Shishir Kant Upadhyay
+- **Email:** shishirkantupadhyay@gmail.com
